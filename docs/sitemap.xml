@@ -33,6 +33,26 @@
   </url>
   
   <url>
+    <loc>https://tapas.games/tag/academic/</loc>
+    <lastmod>2020-05-07T14:48:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tapas.games/post/</loc>
+    <lastmod>2020-05-07T14:48:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tapas.games/tags/</loc>
+    <lastmod>2020-05-07T14:48:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tapas.games/2020/05/07/testing-again/</loc>
+    <lastmod>2020-05-07T14:48:11+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tapas.games/categories/</loc>
     <lastmod>2020-05-07T14:29:50+01:00</lastmod>
   </url>
@@ -43,32 +63,22 @@
   </url>
   
   <url>
-    <loc>https://tapas.games/post/first-post/</loc>
-    <lastmod>2020-05-07T09:50:34+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tapas.games/tag/plot/</loc>
     <lastmod>2020-05-07T14:29:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tapas.games/post/</loc>
+    <loc>https://tapas.games/2020/05/07/testing-add-in/</loc>
     <lastmod>2020-05-07T14:29:50+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tapas.games/tags/</loc>
-    <lastmod>2020-05-07T14:29:50+01:00</lastmod>
+    <loc>https://tapas.games/2020/05/07/first-post/</loc>
+    <lastmod>2020-05-07T09:50:34+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tapas.games/post/testing-add-in/</loc>
-    <lastmod>2020-05-07T14:29:50+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tapas.games/post/writing-technical-content/</loc>
+    <loc>https://tapas.games/2019/07/12/writing-technical-content-in-academic/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,7 +123,7 @@
   </url>
   
   <url>
-    <loc>https://tapas.games/post/jupyter/</loc>
+    <loc>https://tapas.games/2019/02/05/display-jupyter-notebooks-with-academic/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,12 +163,7 @@
   </url>
   
   <url>
-    <loc>https://tapas.games/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tapas.games/post/getting-started/</loc>
+    <loc>https://tapas.games/2016/04/20/academic-the-website-builder-for-hugo/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,7 +198,7 @@
   </url>
   
   <url>
-    <loc>https://tapas.games/post/2015-07-23-r-rmarkdown/</loc>
+    <loc>https://tapas.games/2015/07/23/hello-r-markdown/</loc>
     <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   

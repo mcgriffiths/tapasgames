@@ -5,7 +5,7 @@
     <link>https://tapas.games/tag/academic/</link>
       <atom:link href="https://tapas.games/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2020 14:48:11 +0100</lastBuildDate>
     <image>
       <url>https://tapas.games/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
@@ -13,10 +13,19 @@
     </image>
     
     <item>
+      <title>testing aaaagain</title>
+      <link>https://tapas.games/2020/05/07/testing-again/</link>
+      <pubDate>Thu, 07 May 2020 14:48:11 +0100</pubDate>
+      <guid>https://tapas.games/2020/05/07/testing-again/</guid>
+      <description>&lt;p&gt;another test&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Academic: the website builder for Hugo</title>
-      <link>https://tapas.games/post/getting-started/</link>
+      <link>https://tapas.games/2016/04/20/academic-the-website-builder-for-hugo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://tapas.games/post/getting-started/</guid>
+      <guid>https://tapas.games/2016/04/20/academic-the-website-builder-for-hugo/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 &lt;em&gt;widgets&lt;/em&gt;, &lt;em&gt;themes&lt;/em&gt;, and &lt;em&gt;language packs&lt;/em&gt; included!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or 

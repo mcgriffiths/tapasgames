@@ -1,7 +1,7 @@
 ---
 title: Testing add-in
 author: Martin Griffiths
-date: '2020-05-07'
+date: '2020-05-07T14:29:50+01:00'
 slug: testing-add-in
 categories:
   - Demo

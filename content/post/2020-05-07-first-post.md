@@ -1,7 +1,7 @@
 ---
 title: First post!
 author: ~
-date: '2020-05-07'
+date: '2020-05-07T09:50:34+01:00'
 slug: first-post
 categories: []
 tags: []

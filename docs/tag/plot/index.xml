@@ -5,7 +5,7 @@
     <link>https://tapas.games/tag/plot/</link>
       <atom:link href="https://tapas.games/tag/plot/index.xml" rel="self" type="application/rss+xml" />
     <description>plot</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 07 May 2020 14:29:50 +0100</lastBuildDate>
     <image>
       <url>https://tapas.games/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>plot</title>
@@ -14,18 +14,18 @@
     
     <item>
       <title>Testing add-in</title>
-      <link>https://tapas.games/post/testing-add-in/</link>
-      <pubDate>Thu, 07 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://tapas.games/post/testing-add-in/</guid>
+      <link>https://tapas.games/2020/05/07/testing-add-in/</link>
+      <pubDate>Thu, 07 May 2020 14:29:50 +0100</pubDate>
+      <guid>https://tapas.games/2020/05/07/testing-add-in/</guid>
       <description>&lt;p&gt;testing testing&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://tapas.games/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://tapas.games/2015/07/23/hello-r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      <guid>https://tapas.games/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://tapas.games/2015/07/23/hello-r-markdown/</guid>
       <description>
 
 
